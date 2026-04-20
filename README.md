@@ -95,5 +95,5 @@ The simulator is intended for educational and demonstration purposes. It does no
 
 ### Option 2: Clone with Git
 ```bash
-git clone https://github.com/<your-username>/sap-o2c-simulator.git
+git clone https://github.com/ChiraagDubey/sap-o2c-simulator.git
 cd sap-o2c-simulator
